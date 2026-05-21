@@ -1,5 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Hattie
 
+💻 Software Engineering
+📊 Passionate about Data Analytics & Business Intelligence  
+⚡ Working with Power BI, SQL Server, Python and .NET technologies  
+
+---
+
+## 🚀 Technologies & Tools
+
+- Power BI
+- SQL Server
+- Python
+- C# .NET
+- Power Automate
+- Tableau
+- HTML / CSS
+- React & Angular
+
+---
+
+## 📚 Currently Learning
+
+- Azure
+- ETL Processes
+- Data Engineering
+- Automation Workflows
+
+---
+
+## 📈 Interests
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Automation
+- Software Development
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: www.linkedin.com/in/hattie-quimbiamba-1797ab171
 <!--
 **Hattie-dev/Hattie-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
